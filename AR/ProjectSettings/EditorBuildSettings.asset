@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Exercise1.unity
+    guid: e7428823d14b0ad458936817109ede80
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d52814691a2b8544db74f076f263cd85, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 34f0164abf1a83849a53d99f90015a9e, type: 2}
